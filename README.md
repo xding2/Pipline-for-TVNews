@@ -3,5 +3,5 @@
  
 \Topic model:
 
-1. **ETM** model simple version
+1. **ETM** model_simple version
 2. download parameter from google driver and the sample dataset from google driver
