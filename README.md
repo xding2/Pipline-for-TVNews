@@ -1,4 +1,4 @@
-# Pipline-TVNews
+# PIPLINE-TVNEWS
  Here is the pipline code for tvnews research @ SAIL LAB (Created by Xiaohan)
  
 \Topic model:
